@@ -1,6 +1,7 @@
 PLA 
 
-Numakers PLA+  [https://robu.in/product/numakers-pla-filament-teal-blue-1-75-mm-1-kg/](url)
+[Numakers PLA+](https://numakers.com/products/pla-filament?variant=47078003867956)
+
 WOLD3D PLA PRO+
 
 PETG
