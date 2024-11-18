@@ -1,5 +1,0 @@
-Bed Temp :-- 68 
-Nozzle Temp :-- 218
-Colour Tested :-- BUMBLEBEE YELLOW
-
-Link to filament :-- https://wol3d.com/product/pla-yellow/
