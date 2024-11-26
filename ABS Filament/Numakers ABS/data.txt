@@ -1,0 +1,5 @@
+Bed Temp :--  100
+Nozzle Temp :-- 253
+Colour Tested :-- Cherry Red
+
+Link to filament :-- https://robu.in/product/numaker-abs-filament-apple-red-1-75-mm-1-kg/?gad_source=1
